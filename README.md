@@ -1,0 +1,2 @@
+# StaticPose_Landmark_Annotator
+Mediapipe
